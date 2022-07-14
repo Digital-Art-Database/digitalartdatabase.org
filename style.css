@@ -5,3 +5,41 @@ body {
   background-color: #000000;
   font-color: #FFFFFF;
 }
+
+a {
+  color: #FCE303;
+}
+
+a:hover {
+  color: #0000EE;
+}
+
+h1 {
+  text-align: left;
+  font-size: 24pt;
+  color: #FFFFFF;
+}
+
+h2 {
+  font-size: 18pt;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  font-weight: normal;
+  font-size: 16pt;
+  color: #FFFFFF;
+}
+
+p {
+  font-weight: normal;
+  font-size: 16pt;
+  color: #FFFFFF;
+}
