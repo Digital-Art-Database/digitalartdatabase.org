@@ -12,6 +12,9 @@ nav {
 
 sup {
   color:#00FF00;
+  .js-heavy {
+    font-color: #FF0000;
+  }
 }
 
 .js-heavy {
