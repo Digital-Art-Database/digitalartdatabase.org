@@ -1,4 +1,4 @@
-# digitalartdatabase.org
+# Digital Art Database
 
 
 
